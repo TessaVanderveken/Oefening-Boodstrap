@@ -1,0 +1,24 @@
+
+body {font-family: 'Lobster', cursive;}
+.jumbotron{
+	background-image:url(../Images/Snowboard.jpg);}
+	
+.nav navbar-nav{
+	background-color:#0093FF;}	
+#slogan{
+	
+	font-size:30px;
+	color:#00A3FF;
+	text-align:center;
+	margin-bottom:10px;
+	margin-top:10px;}
+	
+#slogan p{	
+	padding-bottom:20px;
+	padding-top:20px;}
+.thumbnail img{
+	height:170px;
+	width:350px;
+	}	
+.caption{
+	width:300px;}
